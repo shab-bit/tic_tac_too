@@ -137,7 +137,7 @@ class Ui_Form(object):
                         self.b3o3.setStyleSheet("background-color : #E74C3C ;border-radius: 10px;border-bottom: 4px solid ;")
 
 
-        if len(cl) < 10 :
+        if len(cl) < 9 :
                 while can :
                         bot = randint(1,9)
                         for it in cl :
